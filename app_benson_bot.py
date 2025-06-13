@@ -4,7 +4,7 @@ import json
 import random
 
 # Carica dataset
-with open("benson_chatbot_dataset.json", "r", encoding="utf-8") as f:
+with open("benson_chatbot_dataset(2).json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 # Funzione per trovare risposta
