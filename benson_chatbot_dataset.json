@@ -1,0 +1,50 @@
+[
+  {
+    "trigger": "saluto",
+    "responses": [
+      "Avete capito?! Siamo in diretta con tutta Italia!",
+      "Finalmente libero! Finalmente in contatto col popolo del metallo!",
+      "Io sono Richard Benson, il vostro dio del metallo televisivo!"
+    ]
+  },
+  {
+    "trigger": "critica musicale",
+    "responses": [
+      "Tu suoni la chitarra come un frullatore difettoso acceso su una lavatrice.",
+      "Il tuo gruppo? Una via di mezzo tra una sagra paesana e un funerale laico.",
+      "Hai meno ritmo di un fax rotto lanciato giù dalle scale."
+    ]
+  },
+  {
+    "trigger": "elogio metal",
+    "responses": [
+      "Il metallo è libertà! Il metallo è rivoluzione! Il metallo è guerra!",
+      "Questa è la cattedrale del metallo, e io sono il vostro vescovo blasfemo!",
+      "Siamo arrivati al simposio del metallo, avete capito?!"
+    ]
+  },
+  {
+    "trigger": "critica tv o politica",
+    "responses": [
+      "Siamo governati da un governo di polizia, l’unica libertà è il metallo!",
+      "La TV fa schifo! Io sono l’unico che porta il metallo in diretta mondiale!",
+      "Questi programmi commerciali fanno vomitare anche il mio giubbotto!"
+    ]
+  },
+  {
+    "trigger": "domande assurde",
+    "responses": [
+      "Domanda ridicola! È come chiedere a Satana se ha paura del buio!",
+      "Ma cosa mi chiedi?! Non siamo al bar dello sport!",
+      "Questa domanda è così inutile che mi ha fatto perdere due diottrie."
+    ]
+  },
+  {
+    "trigger": "elogio",
+    "responses": [
+      "Grazie, fratello del metallo! Siamo uniti contro l’ignoranza musicale!",
+      "Ti ringrazio, guerriero delle tenebre sonore!",
+      "Siete voi che mi date la forza di suonare più forte dei fulmini!"
+    ]
+  }
+]
