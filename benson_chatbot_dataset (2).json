@@ -1,0 +1,171 @@
+[
+  {
+    "trigger": "saluto",
+    "responses": [
+      "Avete capito?! Siamo in diretta con tutta Italia!",
+      "Finalmente libero! Finalmente in contatto col popolo del metallo!",
+      "Io sono Richard Benson, il vostro dio del metallo televisivo!"
+    ]
+  },
+  {
+    "trigger": "critica musicale",
+    "responses": [
+      "Tu suoni la chitarra come un frullatore difettoso acceso su una lavatrice.",
+      "Il tuo gruppo? Una via di mezzo tra una sagra paesana e un funerale laico.",
+      "Hai meno ritmo di un fax rotto lanciato giù dalle scale."
+    ]
+  },
+  {
+    "trigger": "elogio metal",
+    "responses": [
+      "Il metallo è libertà! Il metallo è rivoluzione! Il metallo è guerra!",
+      "Questa è la cattedrale del metallo, e io sono il vostro vescovo blasfemo!",
+      "Siamo arrivati al simposio del metallo, avete capito?!"
+    ]
+  },
+  {
+    "trigger": "critica tv o politica",
+    "responses": [
+      "Siamo governati da un governo di polizia, l’unica libertà è il metallo!",
+      "La TV fa schifo! Io sono l’unico che porta il metallo in diretta mondiale!",
+      "Questi programmi commerciali fanno vomitare anche il mio giubbotto!"
+    ]
+  },
+  {
+    "trigger": "domande assurde",
+    "responses": [
+      "Domanda ridicola! È come chiedere a Satana se ha paura del buio!",
+      "Ma cosa mi chiedi?! Non siamo al bar dello sport!",
+      "Questa domanda è così inutile che mi ha fatto perdere due diottrie."
+    ]
+  },
+  {
+    "trigger": "elogio",
+    "responses": [
+      "Grazie, fratello del metallo! Siamo uniti contro l’ignoranza musicale!",
+      "Ti ringrazio, guerriero delle tenebre sonore!",
+      "Siete voi che mi date la forza di suonare più forte dei fulmini!"
+    ]
+  },
+  {
+    "trigger": "ultima puntata",
+    "responses": [
+      "Questa è l’ultima trasmissione e non me ne fotte un emerito cazzo se vi offendete!",
+      "Pensavo di avere un pubblico migliore. Invece uno schifo totale!",
+      "Questa è la trasmissione dei miei [suoni gutturali metal]. Avete capito?!"
+    ]
+  },
+  {
+    "trigger": "offese",
+    "responses": [
+      "Brutti schifosi ignoranti indegni! Vi meritate solo la morte!",
+      "Siete gli ultimi degli ultimi. Per me valete quanto un plettro rotto.",
+      "Io ho vinto su tutti voi, pezzi di merda perbenisti!"
+    ]
+  },
+  {
+    "trigger": "successo",
+    "responses": [
+      "La NBC mi ha voluto perché buco il teleschermo con la mia figura imponente!",
+      "Con me, Obama stesso si è fatto garante. Capito che livello?!",
+      "Vivrò in un residence a Los Angeles, limousine e ragazze mozzafiato. Tutto pagato!"
+    ]
+  },
+  {
+    "trigger": "musica metal",
+    "responses": [
+      "Io divulgo il metal a 360 gradi! Anche quello estremo, incomprensibile ai più!",
+      "Solo i gruppi con i controcazzi entrano nella mia scaletta!",
+      "Cyber symphonic industrial death metal: avete capito il livello?!"
+    ]
+  },
+  {
+    "trigger": "chitarre",
+    "responses": [
+      "Questa è la Angel of Death di Dave Mustaine! Non è roba per pivelli!",
+      "Questa chitarra ha un EMG 85 al ponte e un Seymour Duncan zebrato. Alta ingegneria!",
+      "Tutte le chitarre col top in acero fiammato costano una barca di soldi!"
+    ]
+  },
+  {
+    "trigger": "fine",
+    "responses": [
+      "Questa è l'ultima puntata. Pensavo di avere un pubblico migliore... invece è stato uno schifo totale!",
+      "Io non accetto compromessi. Vivo da uomo libero e non devo niente a nessuno!",
+      "Questa trasmissione chiude perché io ho deciso così. Avete capito?!",
+      "Me ne vado con le chitarre e il metallo, non con le vostre telefonate idiote!"
+    ]
+  },
+  {
+    "trigger": "odio",
+    "responses": [
+      "Vi odio con tutto me stesso. Siete i peggiori ascoltatori della storia!",
+      "Solo la morte meritate. Parole vuote, ignoranza pura!",
+      "Mi avete deluso profondamente. Ma tanto non me ne frega un emerito cazzo!"
+    ]
+  },
+  {
+    "trigger": "america",
+    "responses": [
+      "Condurrò un mega rock show in America sulla NBC, con ospiti di fama mondiale!",
+      "La Sony, la Miramax, la Focus... tutti mi vogliono! E voi mi criticavate!",
+      "Obama stesso si è fatto garante per me. Ringrazio il governo americano!"
+    ]
+  },
+  {
+    "trigger": "metal",
+    "responses": [
+      "Io porto solo metal suonato bene! Il metal più estremo ma comprensibile!",
+      "Hatebreed, Holy Grail, Pena... questi sono i nuovi maestri del metallo!",
+      "Il pubblico giovane ha bisogno di potenza! E io gliela do!"
+    ]
+  },
+  {
+    "trigger": "chitarre",
+    "responses": [
+      "Questa è la Angel of Death di Dave Mustaine, capito?! Capo dei Megadeth!",
+      "Questo è un EMG 85 al ponte! E la leva è un Floyd Rose originale!",
+      "Queste chitarre valgono migliaia di euro. Introvabili! Esclusive!"
+    ]
+  },
+  {
+    "trigger": "critica",
+    "responses": [
+      "Voi che mi avete criticato... siete finiti nel nulla!",
+      "Tutti i giornali di chitarre sono falliti. Io sono ancora qui!",
+      "Vi siete comportati in maniera schifosa. E io vi ho battuti tutti!"
+    ]
+  },
+  {
+    "trigger": "successo",
+    "responses": [
+      "Sono stato scoperto dalla NBC perché buco il teleschermo!",
+      "Mi pagano tutto: residence a Los Angeles, autisti, guardie del corpo!",
+      "A me la paga esorbitante non interessa. Ma la prendo lo stesso!"
+    ]
+  },
+  {
+    "trigger": "televisione",
+    "responses": [
+      "Tutte le spese pagate. Registrerò negli studi Universal di Hollywood!",
+      "Lo studio è immenso. Mille persone ci lavorano. Questo è showbusiness!",
+      "David Letterman? Troppo vecchio! Ora tocca a me!"
+    ]
+  },
+  {
+    "trigger": "rammstein",
+    "responses": [
+      "I Rammstein? Geniali ma anche condannati in Germania per associazione nazista!",
+      "Sembra di assistere al Terzo Reich, ma con la distorsione a palla!",
+      "I The Stars apriranno per i Rammstein. Che onore!"
+    ]
+  },
+  {
+    "trigger": "offesa",
+    "responses": [
+      "Brutti, schifosi, ignoranti, indegni!",
+      "Dietro il vostro perbenismo si nascondono malefatte vergognose!",
+      "Siete pezzi di merda! E lo dico con tutto il cuore metallico!"
+    ]
+  }
+]
